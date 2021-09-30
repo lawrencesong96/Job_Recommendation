@@ -10,5 +10,8 @@ LinkedIn: Job Search and Recommendation Engine
 
 •	Deployed to Amazon EC2 for better performance.
 
+
+
 Project Demo
+
 ![job recommendation](https://user-images.githubusercontent.com/72828121/135389933-b0b4212f-23ab-4762-88d1-8769860173de.gif)
