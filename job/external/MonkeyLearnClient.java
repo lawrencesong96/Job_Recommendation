@@ -17,8 +17,9 @@ import java.io.UnsupportedEncodingException;
 import java.util.*;
 
 public class MonkeyLearnClient {
+    //use monkey learn API to do word extraction
     private static final String EXTRACT_URL = "https://api.monkeylearn.com/v3/extractors/ex_YCya9nrn/extract/";
-    private static final String AUTH_TOKEN = "c8d27982156a1aced5d45250b9adc0ac35477d25";
+    private static final String AUTH_TOKEN = "xxxxxxxxxxxxxxxxxxxxxxxx";
 
     public List<Set<String>> extract(List<String> articles) {
         ObjectMapper mapper = new ObjectMapper();
